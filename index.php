@@ -6,7 +6,7 @@ error_reporting(0);
 <html lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
-<title>CEK RESI</title>
+<title>CEK RESI JNE, POS & TIKI</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -18,20 +18,6 @@ error_reporting(0);
 
 
 
-<script type="text/javascript">
-$(document).ready(function() {
-	$('#loading').ajaxStart(function(){
-			$(this).show();
-		}).ajaxStop(function(){
-			$(this).hide();
-		});
-
-
-
-
-	
-});
-</script>
 
 
 
@@ -91,7 +77,7 @@ $("#iloading").hide();
 
 
 
-<h1>CEK RESI</h1>
+<h1>CEK RESI JNE, POS & TIKI</h1>
 
 
 <form class="search" method="POST" name="formku2" id="formku2">
